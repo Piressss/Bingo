@@ -99,7 +99,6 @@ class NameListClass():
             'IRMÃ',
             'GÊMEOS',
             'LACINHO',
-            'CHUPETA',
             'VESTIDO',
             'SAIA',
             'ASSADURA',
